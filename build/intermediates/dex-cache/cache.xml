@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\exploded-aar\com.alexvasilkov\foldable-layout\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9996a3ab73fb3c6082c13e107e093328a23ec179">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\classes-7539b2c7178fa06f252f33dd10cb40c109e10cf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\gson-2.2.4-44c0a6be39d44bfb7c7daaf92b02e3dbbd9460f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-1d491a5a8d23c166c74da76f2e32a6e330b2a074.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\libs\listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\listviewanimations-2.6.0-a6a9933bc04b73cd84f685d1b4f456495f4b2696.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1-1db899c72f481f66cb827221b0db7c520ca54876.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\classes-7ab63fa692334266788d0d3311c022d3b049f6e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\libs\butterknife-5.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="34f9a9915c4ac33f97a9339f4caad41cb02638d8">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\butterknife-5.0.0-f5fd8b1a424438d773b21d231a1258af6d083b16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-0632da76d85a96111b8bc30f6ee6b83432dc153c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\libs\photoviewlibrary.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b2c797984dea1adba77508f1fa5a377cc91254c5">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\photoviewlibrary-5c00f5d0a3758164bce7bf46c27403b8c8607017.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d57fd9c5dcce9fb775f92d68557370fe891c356b">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\volley-7c40289b1f125606e36d8a32d25731bc0d610010.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\exploded-aar\9Gag.extras\ShimmerAndroid\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb41a100a92f85abc6913165ae5a22540b37a143">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\classes-a82b2842404b9fec692f17f070796fd2c1b49b28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-aaf969a34e9fbb75dd43790a5225e8f4a9cd75b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="C:\Users\Christian\Desktop\Practical\9Gag\app\build\intermediates\pre-dexed\debug\classes-3726af3a4d16b765dac2a2422d59cb196bafa231.jar" />
+    </item>
+
+</items>
